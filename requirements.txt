@@ -1,0 +1,2 @@
+python-telegram-bot==20.7
+python-gitlab==4.5.0
